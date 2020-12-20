@@ -1,2 +1,4 @@
-package AOC_2020;public class aoc_22_02 {
+package AOC_2020;
+
+public class aoc_22_02 {
 }
